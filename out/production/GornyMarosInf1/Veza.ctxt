@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Veza
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Veza\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Veza()
+comment1.text=\r\n\ Kon\u0161truktor\ triedy\ Veza\r\n\ Peniaze\ nastav\u00ED\ na\ 40\r\n\ Dosah\ ve\u017Ei\u010Dky\ nastav\u00ED\ na\ 1\r\n\ Silu\ ve\u017Ei\u010Dky\ nastav\u00ED\ na\ 1\r\n\ Vytvor\u00ED\ maticu\ miestoVezicky\ s\ Kruhom\r\n
+comment2.params=pozX\ pozY
+comment2.target=void\ vytvorVezicku(int,\ int)
+comment2.text=\r\n\ Vytvor\u00ED\ ve\u017Ei\u010Dku\ na\ poz\u00EDci\u00ED\ X\ ,\ Y\r\n\ Ak\ m\u00E1\ aspo\u0148\ 10\ pe\u0148az\u00ED\r\n\ Ak\ sa\ nenach\u00E1dza\ na\ ceste\r\n\ Ak\ na\ danej\ poz\u00EDci\u00ED\ nie\ je\ in\u00E1\ ve\u017Ea\r\n
+comment3.params=priserka
+comment3.target=void\ skusZnicitPriserku(Priserka)
+comment3.text=\r\n\ Sk\u00FAsi\ zni\u010Di\u0165\ pr\u00ED\u0161erku\r\n\ Ak\ sa\ nach\u00E1dza\ v\ dosahu\ ve\u017Ei\u010Dky\r\n\ \ \ \ \ \ Ak\ m\u00E1\ pr\u00ED\u0161erka\ v\u00E4\u010D\u0161\u00ED\ \u017Eivot,\ ako\ ve\u017Ea\ silu,\ tak\ ve\u017Ea\ odoberie\ \u017Eivot\r\n\ \ \ \ \ \ Ak\ m\u00E1\ pr\u00ED\u0161erka\ men\u0161\u00ED\ alebo\ rovn\u00FD\ \u017Eivot,\ ako\ ve\u017Ea\ silu,\ tak\ pr\u00ED\u0161erku\ skryje\ a\ prid\u00E1\ 5\ pe\u0148az\u00ED\r\n\ Nastav\u00ED\ pr\u00ED\u0161erku\ ako\ na\ zasiahnut\u00FA\r\n
+comment4.params=
+comment4.target=boolean\ getZasiahnutaPriserka()
+comment5.params=zasiahnutaPriserka
+comment5.target=void\ setZasiahnutaPriserka(boolean)
+numComments=6

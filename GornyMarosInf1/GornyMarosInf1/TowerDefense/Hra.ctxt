@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hra
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hra\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Hra()
+comment1.text=\r\n\ Kon\u0161truktor\ triedy\ Hra\r\n\ Nainicializuje\ pole\ miestoVeziciek\ s\ vezami\r\n\ Vytvor\u00ED\ ArrayList\ s\ pr\u00ED\u0161erkami\r\n\ Vytvor\u00ED\ 10\ pr\u00ED\u0161eriek\r\n
+comment2.params=x\ y
+comment2.target=void\ vyberSuradnice(int,\ int)
+comment2.text=\r\n\ Vytvor\u00ED\ nov\u00FA\ ve\u017Eu\ na\ poz\u00EDci\u00ED\ X,Y\r\n
+comment3.params=
+comment3.target=void\ tik()
+comment3.text=\r\n\ Ka\u017Ed\u00FA\ pr\u00ED\u0161erku\ posunie\ po\ ceste\ o\ jeden\ \u0161tvorec\r\n\ \ \ \ \ \ Ak\ sa\ pr\u00ED\u0161erka\ dostane\ za\ koniec\ cesty,\ hru\ vypne\r\n\ Ve\u017Ea\ sk\u00FAsi\ zni\u010Di\u0165\ ka\u017Ed\u00FA\ pr\u00ED\u0161erku\r\n\ \ \ \ \ \ Ak\ pr\u00ED\u0161erka\ e\u0161te\ nebola\ zasiahnut\u00E1,\ tak\ \r\n\ \ \ \ \ \ \ \ \ \ Sk\u00FAsi\ zni\u010Di\u0165\ pr\u00ED\u0161erku\r\n\ \ \ \ \ \ Ak\ pr\u00ED\u0161erka\ bola\ zasiahnut\u00E1,\ tak\ \r\n\ \ \ \ \ \ \ \ \ \ Sa\ skon\u010D\u00ED\ cyklus\r\n
+numComments=4

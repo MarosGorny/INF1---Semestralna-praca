@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Mapa
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mapa\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Mapa()
+comment1.text=\r\n\ Kon\u0161truktor\ triedy\ Mapa\r\n\ Nakresl\u00ED\ mapu\ cez\ \u0161tvorce,\ zo\ zelenej\ a\ \u010Dervenej\ farby\r\n\ \r\n\ Ak\ je\ \u0161tvorec\ \u010Derven\u00FD,\ do\ pola\ prirad\u00ED\ "0"\r\n\ Ak\ je\ \u0161tvorec\ zelen\u00FD,\ do\ pola\ prirad\u00ED\ "1"\r\n\ \r\n\ Ka\u017Ed\u00FD\ \u0161tvorec\ prid\u00E1\ do\ ArrayListu\r\n
+comment2.params=x\ y
+comment2.target=boolean\ getCesta(int,\ int)
+comment3.params=
+comment3.target=void\ zobrazMapu()
+comment3.text=\r\n\ \ \ \ \ Zobraz\u00ED\ sa\ ka\u017Ed\u00FD\ \u0161tvorec\ z\ ArrayListu\ mapa\r\n
+numComments=4
